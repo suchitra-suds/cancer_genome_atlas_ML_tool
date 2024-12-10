@@ -36,11 +36,7 @@ This application provides a streamlined platform for researchers and data scient
    git clone https://github.com/your-repo/tcga-platform.git
    cd tcga-platform
    ```
-2. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ensure R and the required packages are installed:
+2. Ensure R and the required packages are installed:
    ```R
    install.packages("BiocManager")
    BiocManager::install("TCGAbiolinks")
