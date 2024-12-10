@@ -1,4 +1,4 @@
-#  The Cancer Genome Atlas Interacive Data Platform with Integrated Machine Learning Analysis
+#  The Cancer Genome Atlas: Interacive Data Platform with Integrated Machine Learning Analysis
 
 ## Purpose
 This application provides a streamlined platform for researchers and data scientists to access, preprocess, visualize, and analyze data from The Cancer Genome Atlas (TCGA). Its key objectives include:
